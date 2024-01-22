@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, criiptico here! 👋
+- I'm currently working on [poketype](https://github.com/criiptico/poketype). In this project I'm learning how to use Python, communicate with an API,
+parse a json file with Pydantic, make a python package, POST and GET methods through Flask, use React, and essentially design the back end and front end of a website.
+
+-
 
 <!--
 **criiptico/criiptico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
