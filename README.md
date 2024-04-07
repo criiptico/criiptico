@@ -1,5 +1,4 @@
 ### Hi there, criiptico here! 👋
-- Pronouns: He/Him/El
 
 - 👷🏻 I'm currently working on ✨[poketype](https://github.com/criiptico/poketype)✨. Poketype is a web-application that takes two pokemon and gives you the most effective move in terms of move type and damage dealt to each pokemon.
   + In this project I'm learning how to use Python, communicate with an API,
