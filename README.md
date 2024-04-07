@@ -3,10 +3,13 @@
 
 - 👷🏻 I'm currently working on ✨[poketype](https://github.com/criiptico/poketype)✨. Poketype is a web-application that takes two pokemon and gives you the most effective move in terms of move type and damage dealt to each pokemon.
   + In this project I'm learning how to use Python, communicate with an API,
-parse a json file with Pydantic, make a python package, use POST and GET methods through Flask, use Flask, use React, and essentially design the back end and front end of a website. 
+parse a json file with Pydantic, make a python package, use POST and GET methods through Flask, use Flask, and essentially design the back end and front end of a website. 
 
 - Some projects I'd love to work on in the future are here:
-  + A-Star Visualization with C++ with a map of the University of Illinois at Chicago campus. Although, there's still some research I need to do for this. It might be the next project once poketype is done 👍.
+  + A-Star Visualization with C++ with a map of the University of Illinois at Chicago campus. Although, there's still some research I need to do for this.
+  + Random Word (for any language) Generator. The idea is that this would use Chat-GPT or Gemini.
+  + Aniguesser - Similar to geoguessor.com but instead these are random scenes from anime
+  + YouTube Subscription Purger (Definitely the project I'm building up to with poketype, random word generator, and aniguesser)
   + Next project . . . secret . . . 🤭
 
 
