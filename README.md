@@ -6,9 +6,6 @@ parse a json file with Pydantic, make a python package, use POST and GET methods
 
 - Some projects I'd love to work on in the future are here:
   + A-Star Visualization with C++ with a map of the University of Illinois at Chicago campus. Although, there's still some research I need to do for this.
-  + Random Word (for any language) Generator. The idea is that this would use Chat-GPT or Gemini.
-  + Aniguesser - Similar to geoguessor.com but instead these are random scenes from anime
-  + YouTube Subscription Purger (Definitely the project I'm building up to with poketype, random word generator, and aniguesser)
   + Next project . . . secret . . . 🤭
 
 
