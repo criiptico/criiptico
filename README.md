@@ -2,10 +2,8 @@
 
 I just finished ✨[poketype](https://github.com/criiptico/poketype)✨ and am open to working on another project.
 
-- ⏳ In Progress Personal Projects (Note: Each project is in its research stage 📑)
-  + Animal Database | Using REST API to develop a local database to track an animal and to display a map of where an animal is.
+- ⏳ In Progress Personal Projects
   + YouTube Unsubscriber | A mass and filtered way to unsubscribe to YouTube channels you're subscribed to.
-  + Track Me | Tracking a pair of tracking devices
 
 - ✅ Completed Personal Projects
   + ✨[poketype](https://github.com/criiptico/poketype)✨. Poketype is a web-application that takes two pokemon and gives you the most effective move in terms of move type and damage dealt to each pokemon.
