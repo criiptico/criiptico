@@ -3,7 +3,7 @@
 I just finished ✨[poketype](https://github.com/criiptico/poketype)✨ and am open to working on another project.
 
 - ⏳ In Progress Personal Projects
-  + Unsub-n-Unfollow | A mass and filtered way to unsubscribe to YouTube channels you're subscribed to.
+  + Unsub-n-Unfollow (unu) | A mass and filtered way to unsubscribe to YouTube channels you're subscribed to.
 
 - ✅ Completed Personal Projects
   + ✨[poketype](https://github.com/criiptico/poketype)✨. Poketype is a web-application that takes two pokemon and gives you the most effective move in terms of move type and damage dealt to each pokemon.
