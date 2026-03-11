@@ -3,7 +3,7 @@
 I just finished 🥳 [Unsub-n-Unfollow (unu)](https://github.com/criiptico/unu-unsub-n-unfollow)!!
 I'm so happy with how this project turned out. I decided to take a small break since it really took a lot from me to focus solely on this project and all of the issues I overcame and everything I had to learn. But needless to say, I'm excited for the next big project I'm going to work on! 
 
-Below are some things that are in my head I've been playing with 🤔🫣
+Below are some things that are in my head I've been playing with 🤔
 
 - ⏳ In Progress Personal Projects
   + Picking between
