@@ -8,7 +8,7 @@ Below are some things that are in my head I've been playing with 🤔
 - ⏳ In Progress Personal Projects
   + Picking between
     - Deploying & beta testing UnU...
-    - Mood Board... (OOP w/Java, C++, or C)
+    - Mood Board... (OOP w/Java, C++, or C OR JS w/Electron for cross-compatibility)
     - Music Group Managing App... (Android or Dart)
     - Video/Audio Stream Sync... (Browser Extension)
     - Scavenger Hunt NFC App... (Dart)
